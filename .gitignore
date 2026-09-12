@@ -1,0 +1,8 @@
+# DEPENDENCIAS DE NODEJS
+node_modules/
+
+#ARCHIVO CSS COMPILADOR POR TAILWIND
+assets/css/output.css
+
+#CONFIG O VARIABLES DE ENTORNO
+.env
